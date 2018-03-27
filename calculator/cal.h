@@ -4,7 +4,6 @@
  * Description: declare some important function, these function
                 do most calculate jop. they are used in cal.c, 
 				also define	some macros.
- * Author:      wangjie
  * Version:     1.0
  * Date:        2013-11-25
  * History:     none

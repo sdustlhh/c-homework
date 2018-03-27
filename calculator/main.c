@@ -3,7 +3,6 @@
  * File name:   base.c
  * Description: the main file, contain the main() function, program
                 start here.
- * Author:      wangjie
  * Version:     1.0
  * Date:        2013-11-25
  * History:     none

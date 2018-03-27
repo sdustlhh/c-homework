@@ -4,7 +4,6 @@
  * Description: declare some basic function, these function are
                 used in base.c, cal.c, main.c, and also define
 				some macros.
- * Author:      wangjie
  * Version:     1.0
  * Date:        2013-11-25
  * History:     none

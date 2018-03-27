@@ -3,7 +3,6 @@
  * File name:   base.c
  * Description: this file consit of definitions of many basic 
                 function
- * Author:      wangjie
  * Version:     1.0
  * Date:        2013-11-25
  * History:     none
